@@ -1,0 +1,9 @@
+di folder ini tujuan nya untuk create app otomatis contoh nya 
+1.service payment
+2.service order
+
+nanti di argo-service-app kita juga buat manifest helm nya
+1.payment
+2.order 
+
+jika ada penambahan dari repo manifest ini maka di argo cd otomatis ter buat app 
