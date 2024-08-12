@@ -13,7 +13,7 @@ spec:
       valueFiles:
       - values.yaml
     path: argo-service-app/order
-    repoURL: 
+    repoURL: https://github.com/zakkytaufiqurrohman/simple-app-k8s-manifest.git
     targetRevision: HEAD
   syncPolicy:
     automated: {}
